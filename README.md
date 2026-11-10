@@ -1,5 +1,5 @@
 # HandOn
-Learning OpenCV - Computer Vision with Python
+OpenCV - Computer Vision with Python
 
 
 💡 What is included in this repo?
